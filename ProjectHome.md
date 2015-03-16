@@ -1,0 +1,1 @@
+Integrating Joomla into SMugmug Photos Sharing Site
